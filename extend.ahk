@@ -82,4 +82,5 @@ SC01C::PrintScreen              ; QWERTY Enter, Colemak Enter
 SC039::Enter                    ; QWERTY Space, Colemak Space
 SC00E::Pause                    ; QWERTY Backspace, Colemak Backspace
 SC02B::Browser_Favorites        ; QWERTY \, Colemak \
+SC035::Tab                      ; QWERTY /, Colemak /
 #HotIf
